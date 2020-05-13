@@ -99,6 +99,6 @@ public Action Event_PlayerHurt(Event event, const char[] name, bool dontBroadcas
 	int attacker = GetClientOfUserId(event.GetInt("attacker"));
 	if(attacker > 0 && g_bEnabled[attacker])
 	{
-		ClientCommand(attacker, "play */buttons/button15.wav");
+		ClientCommand(attacker, "play */training/bell_normal.wav");
 	}
 }
