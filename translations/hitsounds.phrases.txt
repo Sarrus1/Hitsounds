@@ -7,8 +7,8 @@
     }
     "Enabled_Message"
     {
-        "en"        "{green}[Hitsounds] {default}Hitsounds have been {darkred}enabled {default}."
-        "fr"        "{green}[Hitsounds] {default}Les hitsounds ont été {darkred}activés {default}."
+        "en"        "{green}[Hitsounds] {default}Hitsounds have been {green}enabled {default}."
+        "fr"        "{green}[Hitsounds] {default}Les hitsounds ont été {green}activés {default}."
     }
     "Disabled_Message"
     {
