@@ -1,0 +1,18 @@
+"Phrases"
+{
+    "Join_Message"
+    {
+        "en"        "{green}[Hitsounds] {default}Use {darkred}!hs {default}to change your hitsounds settings."
+        "fr"        "{green}[Hitsounds] {default}Utilisez {darkred}!hs {default}pour changer vos paramètres de hitsounds."
+    }
+    "Enabled_Message"
+    {
+        "en"        "{green}[Hitsounds] {default}Hitsounds have been {darkred}enabled {default}."
+        "fr"        "{green}[Hitsounds] {default}Les hitsounds ont été {darkred}activés {default}."
+    }
+    "Disabled_Message"
+    {
+        "en"        "{green}[Hitsounds] {default}Hitsounds have been {darkred}disabled {default}."
+        "fr"        "{green}[Hitsounds] {default}Les hitsounds ont été {darkred}désactivés {default}."
+    }
+}
